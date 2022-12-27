@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MCQ</key>
+	<dict>
+		<key>What is the French word for &apos;hat&apos;?</key>
+		<dict>
+			<key>Chapeau</key>
+			<true/>
+			<key>Écharpe</key>
+			<false/>
+			<key>Bonnet</key>
+			<false/>
+		</dict>
+		<key>In past times, what would a gentleman keep in his fob pocket?</key>
+		<dict>
+			<key>Notebook</key>
+			<false/>
+			<key>Handkerchief</key>
+			<false/>
+			<key>Watch</key>
+			<true/>
+		</dict>
+		<key>How would one say goodbye in Spanish?</key>
+		<dict>
+			<key>Au Revoir</key>
+			<false/>
+			<key>Adiós</key>
+			<true/>
+			<key>Salir</key>
+			<false/>
+		</dict>
+		<key>Which of these colours is NOT featured in the logo for Google?</key>
+		<dict>
+			<key>Green</key>
+			<false/>
+			<key>Orange</key>
+			<true/>
+			<key>Blue</key>
+			<false/>
+		</dict>
+		<key>What alcoholic drink is made from molasses?</key>
+		<dict>
+			<key>Rum</key>
+			<true/>
+			<key>Whisky</key>
+			<false/>
+			<key>Gin</key>
+			<false/>
+		</dict>
+		<key>What type of animal was Harambe?</key>
+		<dict>
+			<key>Panda</key>
+			<false/>
+			<key>Gorilla</key>
+			<true/>
+			<key>Crocodile</key>
+			<false/>
+		</dict>
+		<key>Where is Tasmania located?</key>
+		<dict>
+			<key>Indonesia</key>
+			<false/>
+			<key>Australia</key>
+			<true/>
+			<key>Scotland</key>
+			<false/>
+		</dict>
+		<key>What do the letters in the GMT time zone stand for?</key>
+		<dict>
+			<key>Global Meridian Time</key>
+			<false/>
+			<key>Greenwich Mean Time</key>
+			<true/>
+			<key>General Median Time</key>
+			<false/>
+		</dict>
+		<key>Five dollars is worth how many nickels?</key>
+		<dict>
+			<key>25</key>
+			<false/>
+			<key>50</key>
+			<false/>
+			<key>100</key>
+			<true/>
+		</dict>
+		<key>Which is the largest organ in the human body?</key>
+		<dict>
+			<key>Heart</key>
+			<false/>
+			<key>Skin</key>
+			<true/>
+			<key>Large Intestine</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>True and False</key>
+	<dict>
+		<key>Approximately one quarter of human bones are in the feet.</key>
+		<true/>
+		<key>The total surface area of two human lungs is approximately 70 square metres.</key>
+		<true/>
+		<key>A slug&apos;s blood is green.</key>
+		<true/>
+		<key>In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.</key>
+		<true/>
+		<key>In London, UK, if you happen to die in the House of Parliament, you are technically entitled to a state funeral, because the building is considered too sacred a place.</key>
+		<false/>
+		<key>Google was originally called &apos;Backrub&apos;.</key>
+		<true/>
+		<key>Buzz Aldrin&apos;s mother&apos;s maiden name was &apos;Moon&apos;.</key>
+		<true/>
+		<key>No piece of square dry paper can be folded in half more than 7 times.</key>
+		<false/>
+		<key>Chocolate affects a dog&apos;s heart and nervous system; a few ounces are enough to kill a small dog.</key>
+		<true/>
+		<key>The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.</key>
+		<true/>
+		<key>You can lead a cow down stairs but not up stairs.</key>
+		<false/>
+		<key>It is illegal to pee in the Ocean in Portugal.</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
